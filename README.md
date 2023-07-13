@@ -3,6 +3,7 @@ This is a repository for Growthy Apps which is the final Product Based Capstone 
 
 ## About Growthy
 An android application about ornamental plant care information with disease classification features, community forums, financial dashboards, plant information, and other interesting features
+You can learn more about our applications background, features, and others by watch our presentation [here](https://youtu.be/h07zJHXve20)
 
 ### Download Link
 You can download the Applications [here](https://drive.google.com/file/d/118j6uiaGrxa8HkNa5y2tCZ59PuNzmn3t/view)
