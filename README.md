@@ -5,7 +5,7 @@ This is a repository for Growthy Apps which is the final Product Based Capstone 
 An android application about ornamental plant care information with disease classification features, community forums, financial dashboards, plant information, and other interesting features
 
 ### Download Link
-Currently we still developing the Apps. Stay tune!
+You can download the Applications [here](https://drive.google.com/file/d/118j6uiaGrxa8HkNa5y2tCZ59PuNzmn3t/view)
 
 ### Preview
 ![Untitled-1](https://user-images.githubusercontent.com/100823714/236594053-613411d2-42cf-45c7-93ac-e27af4961ac4.png)
@@ -50,8 +50,10 @@ Currently we still developing the Apps. Stay tune!
 3. <b>Cloud Computing</b>
    - Cloud SQL (Fully managed database service provided by Google Cloud Platform, using MYSQL)
    - Cloud Storage (A secure, scalable, and disaster-resistant object storage service provided by Google Cloud Platform)
-   - App Engine (Service for deploying growthy-backend provided by GCP)
+   - Google App Engine (Service for deploying growthy-backend provided by GCP)
    - Node.js (Develop server-side applications using JavaScript)
+   - Sequelized (Database management tools)
+   - and other dependencies
 
 ## Getting Started
 
@@ -69,7 +71,3 @@ Currently we still developing the Apps. Stay tune!
 
   1.  Open Growthy application
   2.  Register into the application or Login with Google Account
-
-## Some Steps
-
-still developing
